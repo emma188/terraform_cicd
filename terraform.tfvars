@@ -1,6 +1,6 @@
 
-aws_region        = "us-east-2"
-ami_id            = "ami-00399ec92321828f5"
+aws_region        = "us-east-1"
+ami_id            = "mi-051f7e7f6c2f40dc1"
 instance_type     = "t2.micro"
 key_name          = "terraform-demo-key"
 public_key_path   = "~/.ssh/id_rsa.pub"
